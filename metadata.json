@@ -1,0 +1,6 @@
+{
+  "name": "Full-Stack E-Commerce Platform",
+  "description": "A production-grade full-stack e-commerce platform with a customer storefront and active admin panel with real-time stock, orders, analytics, and simulated Stripe integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
